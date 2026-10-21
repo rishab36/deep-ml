@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 3 problems · 0 labs · 5 math
+**9** solved · 3 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-20 | [solution](math/0005-gradient-descent-updates) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-21 | [solution](math/0012-inverse-and-rank) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-21 | [solution](math/0010-matrix-multiplication) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-21 | [solution](math/0014-orthogonality-and-projections) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-21 | [solution](math/0032-softmax-and-cross-entropy) |
 
 ---
